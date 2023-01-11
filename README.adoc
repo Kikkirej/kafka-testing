@@ -1,0 +1,7 @@
+= Kafka
+
+== docker-compose.yml
+
+Quelle: `https://medium.com/tekraze/running-kafka-in-docker-compose-2824b7c6aa9a`
+
+
